@@ -1,0 +1,7 @@
+name: xeus-cling
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - xeus-cling=0.9.0
+  - notebook
